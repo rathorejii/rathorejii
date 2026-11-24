@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Lokesh Rathore
 
-<!--
-**rathorejii/rathorejii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blogger, web designer and full-stack developer from India. I build small, useful websites and keep public, verified records of things that change too fast to trust from memory.
 
-Here are some ideas to get you started:
+## What I maintain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[LimitSheet](https://limitsheet.com/)** — AI coding plan limits and prices (Claude, Codex, Cursor, GitHub Copilot, Antigravity), sourced from the vendors' own pages and dated on every record.
+- **[ai-coding-limits](https://github.com/rathorejii/ai-coding-limits)** — the open-data companion to LimitSheet: the same verified record as Markdown + JSON, updated on every plan change. Data under CC BY 4.0.
+- **[GamingKhabar](https://gamingkhabar.com/)** — Free Fire and BGMI news, settings and verified redeem codes for Indian players.
+- **[MDM Saathi](https://play.google.com/store/search?q=MDM%20Saathi&c=apps)** — an offline-first Android app for PM POSHAN / mid-day-meal school records.
+
+## Say hello
+
+- Web: [limitsheet.com](https://limitsheet.com/) · [gamingkhabar.com](https://gamingkhabar.com/)
+- Found a price or limit that's wrong in the data? Open an issue in [ai-coding-limits](https://github.com/rathorejii/ai-coding-limits/issues) — corrections are verified against the official source.
